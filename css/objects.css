@@ -1,0 +1,106 @@
+body {
+    background-image: url(../WAD-ProZ/images/3392075.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+/*  Text boxes  */
+
+input[type=text] {
+    border: none;
+    font-size: larger;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    background: transparent;
+}
+
+input[type=password] {
+    border: none;
+    font-size: larger;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    background: transparent;
+}
+
+/*  Buttons  */
+
+.btn_sl_red {
+    background-color: #ff0000;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn_sl_green {
+    background-color: MediumSeaGreen;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn_sl_blue {
+    background-color: DodgerBlue;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn_sl_yellow {
+    background-color: #ffda00;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn_sl_black {
+    background-color: black;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn_sl_gray {
+    background-color: Gray;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+/*  Element boxes  */
+
+.box_level {
+    padding-top: 5px;
+    padding-right: 275px;
+    padding-bottom: 5px;
+    padding-left: 275px;
+}
